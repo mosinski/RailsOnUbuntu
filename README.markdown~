@@ -28,7 +28,7 @@ Gdyby to jednak nie zadziałało pozostaje tradycyjnie..<br>
 
 > gem install rails
 
-#no i koniec!
+###I gotowe!
 
 
 
