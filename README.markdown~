@@ -8,8 +8,9 @@ W okienku terminala klikamy <i>Edit >> Profile Preferences >> Title and Command<
 
 ##Witaj jeśli szukasz prostego rozwiązania to dobrze trafiłeś !<br>
 Gdyby to jednak nie zadziałało pozostaje tradycyjnie..<br>
-1. >sudo apt-get update
-2. >sudo apt-get install git
+> sudo apt-get update
+
+> sudo apt-get install git
 
 
 
